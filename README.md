@@ -8,7 +8,7 @@ This project focuses on building a machine learning model to predict loan eligib
 ## Features
 - **Data Preprocessing**: Handles missing values, encodes categorical variables, and normalizes numerical data.
 - **Feature Engineering**: Selects the most relevant features to enhance model accuracy.
-- **Machine Learning Models**: Implements classification algorithms (e.g., Logistic Regression, Decision Tree, Random Forest).
+- **Machine Learning Models**: Implements classification algorithms (e.g., Logistic Regression, Decision Tree, Random Forest and XG Boost).
 - **Evaluation Metrics**: Assesses model performance using accuracy, precision, recall, and F1-score.
 
 ---
