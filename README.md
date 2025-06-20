@@ -19,7 +19,6 @@ This project focuses on building a machine learning model to predict loan eligib
   - Scikit-learn
   - Pandas
   - NumPy
-  - Matplotlib
   - Seaborn
 
 ---
