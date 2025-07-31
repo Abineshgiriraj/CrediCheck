@@ -1,4 +1,4 @@
-# Predictive Modeling for Loan Eligibility Prediction
+# CrediCheck - Loan Eligibility Analyzer
 
 ## Overview
 This project focuses on building a machine learning model to predict loan eligibility based on applicant details. The model analyzes various factors like income, employment status, credit history, and loan amount to determine whether a loan application should be approved or denied.
